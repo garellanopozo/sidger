@@ -9,5 +9,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>sidger-domain</module>
+		<module>sidger-webapp</module>
 	</modules>
 </project>

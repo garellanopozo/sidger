@@ -1,4 +1,4 @@
-package org.sidger.domain;
+package com.gap.sidger.domain;
 
 /**
  * Hello world!
